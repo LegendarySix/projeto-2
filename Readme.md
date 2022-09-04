@@ -1,8 +1,8 @@
 ## Projeto de estudo.
 
-Neste projeto foi desenvolvido o estudo de HTML e CSS básicos.
+Neste projeto foi desenvolvido o estudo de HTML5 e CSS3.
 
-![calculadora](./assets1/printProjeto.png)
+![site](./img/print.png)
 
 ### Teste em seu Computador!
 
